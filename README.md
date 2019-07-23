@@ -1,0 +1,2 @@
+# gtservbii
+server privatee
